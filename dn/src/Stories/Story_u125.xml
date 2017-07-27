@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="12.1">
+	<Story Self="u125" AppliedTOCStyle="n" UserText="true" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection"/>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false"/>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/c89m82y42k38" PointSize="13.90390625" StrokeWeight="1.3903906250000002" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+				<Table Self="u125i154" HeaderRowCount="0" FooterRowCount="0" TextTopInset="5.561562500000001" TextLeftInset="5.561562500000001" TextBottomInset="5.561562500000001" TextRightInset="5.561562500000001" ClipContentToTextCell="false" BodyRowCount="9" ColumnCount="1" AppliedTableStyle="TableStyle/$ID/[Basic Table]" TableDirection="LeftToRightDirection" SingleRowHeight="4.171171875000001" SingleColumnWidth="3" LeftInset="5.561562500000001" TopInset="5.561562500000001" RightInset="5.561562500000001" BottomInset="5.561562500000001" DefaultRowStrokeWeight="1.3903906250000002" DefaultColumnStrokeWeight="1.3903906250000002" LeftBorderStrokeWeight="1.3903906250000002" RightBorderStrokeWeight="1.3903906250000002" TopBorderStrokeWeight="1.3903906250000002" BottomBorderStrokeWeight="1.3903906250000002" SpaceBefore="5.561562500000001" SpaceAfter="-5.561562500000001" MinimumHeight="4.171171875000001" MaximumHeight="834.234375" StartRowStrokeWeight="1.3903906250000002" EndRowStrokeWeight="0.34759765625000005" StartColumnStrokeWeight="1.3903906250000002" EndColumnStrokeWeight="0.34759765625000005" DiagonalLineStrokeWeight="1.3903906250000002">
+					<Row Self="u125i154Row0" Name="0" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="49.5" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row1" Name="1" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="75.29995727539062" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row2" Name="2" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="59.299957275390625" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row3" Name="3" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="59.299957275390625" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row4" Name="4" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="59.299957275390625" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row5" Name="5" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="59.299957275390625" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row6" Name="6" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="49.5" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row7" Name="7" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="123.29995727539062" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Row Self="u125i154Row8" Name="8" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleRowHeight="49.5" MinimumHeight="49.5" MaximumHeight="832.8439843750001" AutoGrow="true"/>
+					<Column Self="u125i154Column0" Name="0" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" SingleColumnWidth="418.5"/>
+					
+					<Cell Self="u125i154i5" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>Expensive.  It takes longer to have an impact on the arthritis than the TNF alpha inhibitors, which I favor for psoriatic arthritis.  I use stelara in patients who have failed anti TNF therapy. </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u125i154i9" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>I rate this  mostly 4's after careful thought. this drug works very well but mot perfectly. The Q3 month maintenance schedule is great for patients! </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u125i154id" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>Not that good for psoriatic arthritis   there are better ones on the market  </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u125i154i11" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>Wonderful advance in the treatment of both psoriatic arthritis and even more so for plaque psoriasis </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u125i154i12" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>Worried about long term risks ... immune suppression / malignancy   </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u125i154ie" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>Works for most patients but can have serious reactions </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u125i154ia" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>I think I saw a TV ad for this, but really know nothing.  Cursory review reveals that it is a quarterly injection, which is nice but when I found it costs 9K-19K, I was flabbergasted.  How in the world is insurance agreeing to pay for that?  I hope United isn't, because that's who I'm sending my monthly insurance (tax) payment to, and I would be absolutely disgusted to think it was being wasted on such a medicine.  </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u125i154i6" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="18" TextLeftInset="28.44" TextBottomInset="18" TextRightInset="18" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" LeftInset="28.44" TopInset="18" RightInset="18" BottomInset="18" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.34759765625000005" BottomEdgeStrokeWeight="0.34759765625000005" LeftEdgeStrokeColor="Swatch/None" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Swatch/None" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" FirstBaselineOffset="AscentOffset" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="75" RightEdgeStrokeTint="75" TopEdgeStrokeTint="75" BottomEdgeStrokeTint="75" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="6" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="50.05406250000001" RuleAboveLineWeight="1.3903906250000002" RuleBelowLineWeight="1.3903906250000002" SplitColumnInsideGutter="8.342343750000001">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="10" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="70" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>Many patients don't want injections and coverage is challenging. </Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light" PointSize="9" StrokeWeight="1.3903906250000002" Tracking="10" FillTint="50" MiterLimit="13.90390625" StrokeAlignment="CenterAlignment" RubyFontSize="-1.3903906250000002" KentenFontSize="-1.3903906250000002">
+								<Properties>
+									<Leading type="unit">16</Leading>
+									<AppliedFont type="string">LFT Etica</AppliedFont>
+								</Properties>
+								<Content>— Rheumatologist, TX</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
